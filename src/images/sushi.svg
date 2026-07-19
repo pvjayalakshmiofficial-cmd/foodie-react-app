@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 200">
+  <rect width="300" height="200" rx="24" fill="#ffd8b8"/>
+  <path d="M50 130 Q120 20 190 130" fill="#f4a261" stroke="#e76f51" stroke-width="10"/>
+  <circle cx="125" cy="100" r="24" fill="#264653"/>
+  <circle cx="125" cy="100" r="12" fill="#e9c46a"/>
+  <text x="150" y="180" font-family="Inter, sans-serif" font-size="22" fill="#264653" text-anchor="middle">Sushi</text>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 200">
+  <rect width="300" height="200" rx="24" fill="#e8f6ef"/>
+  <ellipse cx="150" cy="120" rx="100" ry="45" fill="#d8f3dc"/>
+  <path d="M90 115 C110 85 140 85 155 115" fill="#52b788"/>
+  <path d="M120 120 C135 90 170 95 185 125" fill="#74c69d"/>
+  <path d="M160 115 C175 85 205 90 220 120" fill="#40916c"/>
+  <text x="150" y="185" font-family="Inter, sans-serif" font-size="22" fill="#1b4332" text-anchor="middle">Salad</text>
+</svg>
